@@ -18,7 +18,7 @@ Add a new user role, Comment Moderator, that allows any selected user to manage 
 
 No other permissions of the user will change so rest assured this plugin will not interfere with anything else on your site. 
 
-Please visit [WPsite] (http://wpsite.net) for more information or visit the direct link to the [Comment Moderator plugin] (http://wpsite.net). 
+Please visit [WPsite](http://wpsite.net) for more information or visit the direct link to the [Comment Moderator plugin](http://wpsite.net). 
 
 == Installation ==
 
